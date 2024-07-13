@@ -1,0 +1,20 @@
+vi filename, Press i to insert, Press ESC -> Shift+ZZ
+cat filename                         (cat-content)
+cp filename filename2                (cp-copy)
+cp -r directoryName1 directoryName2
+mv filename filename2                (mv-rename)
+mv directoryName1 directoryName2
+rm filename                           (rm-remove)
+rmdir directoryName
+mkdir newDirectoryName
+ls
+ls -a, to view hidden files and directories
+ls -l (to view the contents)
+ls ?it* to check the single character
+ls *commands.txt (while card selection)
+ls directoryName
+cd directoryName
+cd ..
+pwd    (where am I?)
+wc filename (to view lines, words, bytes)
+

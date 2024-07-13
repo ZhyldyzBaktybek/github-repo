@@ -1,0 +1,21 @@
+git --version
+git init
+git config user.name
+git config user.email or 
+git config user.email jyldyz.baktybekova@mail.ru (to get the desired email)
+git config user.email your git_hub_account
+git status
+git add . (to put all files on stage)
+git commit -m "Message to put"
+git log , press q to exit
+
+
+
+-----Sync local repo to GitHub repo----
+git remote add origin https://github.commands
+git branch -M main
+git push -u origin main
+
+
+----------------------------------------------------
+
